@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767290362790",
+    "project_id": "equipo-9f22f",
+    "storage_bucket": "equipo-9f22f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767290362790:android:ac4e816a7c1d43ae051d67",
+        "android_client_info": {
+          "package_name": "com.example.equipo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCENAZUFahiaVFO8BTkbVMjFBCDU7f3vzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
